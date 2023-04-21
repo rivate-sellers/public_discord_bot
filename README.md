@@ -1,4 +1,4 @@
-# Öffentlicher Diskussions-Bot
+# Öffentlicher Discord-Bot
 
 ## Zielsetzung
 
