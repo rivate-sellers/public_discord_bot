@@ -12,7 +12,9 @@ Unser Discord Bot soll es den Nutzern unter anderem ermöglichen, sich als Verk�
 - Nutzer können sich als Verkäufer bewerben, indem sie auf einen Button klicken, ein Modal ausfüllen und eine Bewerbung abschicken.
 ![](https://media.discordapp.net/attachments/1099762343799423119/1099763641705824326/image.png?width=703&height=676)
 - Bewerber können im Modal angeben, ob sie bereit sind, ein NDA zu unterzeichnen oder nicht. Außerdem müssen im Modal weitere folgende Daten angegeben werden
+
 ![](https://media.discordapp.net/attachments/1099762343799423119/1099765534444245143/image.png)
+
 zusätzlich soll es in dem Modal einen Abschnitt geben, in welchem man seinen Bewerbungsbereich angeben kann. Desweiteren einen Abschnitt, in welchem man seine PayPal Email Adresse angeben kann. Folgende Bewerbungsbereiche werden von Rivate angeboten:
 Bewerbungsbereiche |  
 -------- |  
