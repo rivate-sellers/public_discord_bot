@@ -35,7 +35,7 @@ Titel des Auftrags   |
 Bereich des Auftrags |
 genaue Beschreibung des Auftrags   |  
 Bezahlung |
-ggf. ein Bild
+ggf. ein Bild |
 
 nach dem Absenden des Auftrags wird dieser in ein Embed zusammengefasst und für den Auftragsersteller sichtbar. Dieser kann mit einem Klick auf den untenstehenden Button den Auftrag absenden, welcher dann auf den öffentlichen Discord in den entsprechenden Kanal gesendet wird.
 - Wenn ein Auftrag von einem Nutzer angenommen wird, wird auch ein Modmail-Kanal mit dem Ersteller des Auftrags geöffnet. Alle Nachrichten, die in diesem Kanal gesendet werden, werden als private Nachricht an den Benutzer gesendet, um die Anonymität des Teammitglieds zu gewährleisten.
