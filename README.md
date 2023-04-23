@@ -29,6 +29,7 @@ Social Media |
 ### Aufträge
 
 - Das Team kann auf dem Teamserver Aufträge mit folgenden Parametern erstellen:
+
 Parameter |  
 -------- |  
 Titel des Auftrags   | 
